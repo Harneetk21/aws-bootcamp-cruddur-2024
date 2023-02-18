@@ -43,4 +43,4 @@ ultraman-labs (Tony Quintanilla): [Conceptual Diagrams](https://lucid.app/lucidc
 
 maayaa06 (Sharon Sekyere):
 
-Harneetk21 (Harneet Kaur):
+Harneetk21 (Harneet Kaur): [Logical Diagram](https://lucid.app/lucidchart/4c254668-27be-4bee-9da8-94a5fad8e554/edit?viewport_loc=-780%2C-110%2C1845%2C894%2C0_0&invitationId=inv_71ceed20-1b68-4ead-b4ad-bb2cbac46fe9)
